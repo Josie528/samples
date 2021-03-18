@@ -7,6 +7,7 @@ public class Location {
 	 */
 	private String city;
 	private int locationId;
+	private String description;
 	
 	/**
 	 * Setter for city
